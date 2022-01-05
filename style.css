@@ -12,10 +12,10 @@ body{
     display: flex;
 }
 .margin-top{
-    margin-top: 100px;
+    margin-top: 50px;
 }
 h1{
-    font-size: 50px;
+    font-size: 60px;
     font-weight: 900;
     font-family: 'Frank Ruhl Libre', serif;
 font-family: 'Poppins', sans-serif;
@@ -32,11 +32,11 @@ font-family: 'STIX Two Text', serif;
 }
 .half-wildth{
     width: 40%;
-    margin-left: 100px;
+    margin-left: 150px;
 
 }
 .half-wildth img{
-    width: 80%;
+    width: 70%;
 }
 .button{
     text-decoration: none;
@@ -44,7 +44,34 @@ font-family: 'STIX Two Text', serif;
     background: tomato;
     padding: 10px 30px;
     display: inline-block;
-    margin-top: 20px;
-    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
     border-radius: 10%/40%;
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+}
+.section-two{
+    margin-left: 130px;
+}
+.one-third-width{
+    width:23%;
+    margin: 20px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10%;
+    
+}
+.one-third-width img{
+    width: 30%;
+}
+#mission{
+    background-color: rgb(219, 234, 240);
+}
+#vission{
+    background-color: rgb(235, 210, 214);
+}
+#Goals{
+    background-color: rgb(248, 232, 203);
 }
