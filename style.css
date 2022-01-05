@@ -1,0 +1,50 @@
+body{
+    margin: o;
+    padding: o;
+    font-family: 'Esteban', serif;
+    font-family: 'Frank Ruhl Libre', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Secular One', sans-serif;
+    font-family: 'STIX Two Text', serif;
+}
+.flexible{
+    display: flex;
+}
+.margin-top{
+    margin-top: 100px;
+}
+h1{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: 'Frank Ruhl Libre', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Secular One', sans-serif;
+font-family: 'STIX Two Text', serif;
+}
+.orange-color{
+    color: orange;
+}
+#intro{
+    border-left:4px solid #ff6347;
+    padding-left: 10px;  
+}
+.half-wildth{
+    width: 40%;
+    margin-left: 100px;
+
+}
+.half-wildth img{
+    width: 80%;
+}
+.button{
+    text-decoration: none;
+    color: white;
+    background: tomato;
+    padding: 10px 30px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-radius: 10%/40%;
+}
