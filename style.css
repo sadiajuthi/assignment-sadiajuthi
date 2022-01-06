@@ -27,8 +27,9 @@ font-family: 'STIX Two Text', serif;
     color: orange;
 }
 #intro{
-    border-left:4px solid #ff6347;
-    padding-left: 10px;  
+    line-height: .7;
+    border-left: 4px solid coral;
+    padding-left: 10px;
 }
 .half-wildth{
     width: 40%;
@@ -53,12 +54,14 @@ h2{
     text-align: center;
 }
 .section-two{
-    margin-left: 130px;
+    margin-left: 8%;
+    margin-right: 8%;
+    
 }
 .one-third-width{
-    width:23%;
-    margin: 20px;
-    margin: 20px;
+    width:25.33%;
+    margin-left: 20px;
+    margin-right: 20px;
     padding: 20px;
     border-radius: 10%;
     
@@ -74,4 +77,74 @@ h2{
 }
 #Goals{
     background-color: rgb(248, 232, 203);
+}
+
+h3{
+    font-size: 35px;
+    line-height: 0.5;
+}
+.develop-part{
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 50px;
+    
+}
+.middile-section-img{
+    width: 40%;
+    padding: 50px;
+
+}
+.middile-section-img img{
+    width: 100%;
+    
+}
+.middile-section-p{
+    width:60%;
+    padding: 50px;
+    margin-top: 30px;
+    
+}
+.last-sec-heading{
+    text-align: center;
+}
+.last-section{
+    margin-left: 140px;
+    margin-right: 140px;
+    
+}
+.last-section img{
+    height: 200px;
+    width: 350px;
+    padding-left:5px;
+    padding-right: 5px;
+    border-radius: 5%;
+}
+.last-paragraph{
+    text-align: center;
+}
+.learn-more-button{
+    text-decoration: none;
+    color: white;
+    background-color: gray;
+    font-size: 12px;
+    padding: 5px 10px;
+}
+footer{
+    margin-top: 80px;
+    background-color: rgb(46, 45, 45);
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    line-height:0;
+}
+h4{
+    font-size: 20px;
+}
+footer p{
+    font-size: 10px;
+}
+.tomato-color{
+    color: tomato;
+
 }
